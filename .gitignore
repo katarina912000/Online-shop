@@ -1,0 +1,4 @@
+#ignore node stuff
+frontend/node_modules
+
+backend/obj
